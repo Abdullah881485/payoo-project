@@ -37,3 +37,6 @@ document.getElementById('outSection-btn').addEventListener('click', function(){
     document.getElementById('money-add').style.display='none';
     document.getElementById('money-out').style.display='block';
 })
+document.getElementById('log-out-btn').addEventListener('click', function(){
+    window.location.href = "./index.html"
+})
