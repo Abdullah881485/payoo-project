@@ -24,7 +24,7 @@ Payoo is a personal finance and payment management web application built using *
 
 1. Clone or download the repository:  
    ```bash
-   git clone https://github.com/your-username/payoo.git
+   git clone https://github.com/Abdullah881485/payoo-project.git
 2. ```bash
    cd payoo
   
